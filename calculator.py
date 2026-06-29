@@ -6,7 +6,7 @@ num2=input("enter second number:")
 
 B=int(num2)
 
-Task=input("Which method do you want to do?")
+Task=input("Which method do you want to do + - / * ? ")
 
 Sum=A+B
 Subtraction=A-B

@@ -71,19 +71,19 @@
 # else:
 #     print("Wrong password")
 
-num1=int(input("enter first number:"))
-num2=int(input("enter secnd number:"))
-operation=input("what do you want to do?(+,-,*,/)")
-if operation=="+":
-    print("sum",num1+num2)
-elif operation =="-":
-    print("subtraction",num1-num2)
-elif operation=="*":
-    print("multiplication",num1*num2)
-elif operation=="/":
-    print("division",num1/num2)
-else:
-    print("invalid operation")
+# num1=int(input("enter first number:"))
+# num2=int(input("enter secnd number:"))
+# operation=input("what do you want to do?(+,-,*,/)")
+# if operation=="+":
+#     print("sum",num1+num2)
+# elif operation =="-":
+#     print("subtraction",num1-num2)
+# elif operation=="*":
+#     print("multiplication",num1*num2)
+# elif operation=="/":
+#     print("division",num1/num2)
+# else:
+#     print("invalid operation")
 
 # number=int(input("enter your number:"))
 # if number%2==0:
